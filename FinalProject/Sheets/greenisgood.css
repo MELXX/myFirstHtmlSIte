@@ -1,0 +1,46 @@
+/* greenisgood.css */
+
+div#NavigationBar li {border: 2px solid #000000;
+						font-size: 30px;
+						font-weight: bold;
+					  display: inline ;
+					  }
+a:visited,a {color:black;
+			text-decoration: none;							   
+			}
+a:hover {color: white;}
+
+					  
+					  
+body {background-color: #90EE90;}
+}
+
+div#Logo p{
+	background-image: url(../Images/food.png);
+	font-size:100px;
+			border: 5px solid #000000;
+			padding-bottom: 2px;
+			margin:25px;
+			}
+div#Summary ul ,p {border: 2px solid #000000;}
+
+div#SummaryOfReferences ul ,p { border: 2px solid #000000; list-style-type: none;}
+
+div#Footer p{background-color: #228b22;
+				border: none;}
+				
+div#Form p{border:none;}
+
+div#Recipie { list-style-type: none;border: 2px solid #000000; }			
+div#Recipie p{ border: none; list-style-type: none; }			
+
+
+div#Typesoffood img{float: left; 
+					   width: 420px; height: 220px; 
+					   margin-right: 1%; 
+					   margin-bottom: 0.5em;
+						
+					   }
+div#Typesoffood p{ clear: both; border: none;}
+
+.TypesOfAdditives p{border:none;}
